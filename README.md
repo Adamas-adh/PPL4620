@@ -63,6 +63,7 @@ Back-End Programmer : Rafli Raihan Permana
 
 1. Latar Belakang
 
+
 Perkembangan teknologi informasi yang pesat sangat mempengaruhi perkembangan game, gamifications dapat mendorong seseorang untuk melakukan sesuatu melalui elemen elemen diantaranya leaderboard, points, badges, challenge and quest yang dinilai dapat meningkatkan loyalitas pelanggan terhadap kita. Salah satu bidang yang sering menerapkan konsep gamification adalah penjualan, manfaat penerapan gamification salah satunya dapat mempererat hubungan dengan pelanggan karena dapat melibatkan pelanggan dalam interaksi yang positif.
 
 Penerapan gamification erat kaitannya dengan pemasaran online baik menggunakan website marketplace maupun aplikasi yang sudah disediakan penjual untuk menarik konsumen, dengan sistem penjualan lama tentunya pelanggan akan merasa bosan terhadap produk yang kita jual, apalagi kita tidak bisa mengeluarkan inovasi terbaru terhadap produk yang kita tentunya akan menurunkan keuntungan dalam penjualan.
@@ -73,9 +74,11 @@ Dari permasalahan diatas kami mengusulkan solusi penerapan Gamification pada Apl
 
 Ruang lingkup yang dicakup aplikasi gamification pada cafe antara lain :
 
+
 - Masyarakat / Pelanggan Cafe
 
 Proyek penerapan gamification pada cafe ini menyasar pada masyarakat terutama pada usia remaja, dengan penerapan gamification tentunya akan lebih menarik pelanggan dengan konsep yang dimiliki yaitu pengumpulan point dengan cara menyelesaikan challenge maupun dengan membeli makanan ataupun minuman lalu jika poin sudah terkumpul dapat ditukarkan sesuai ketentuan yang berlaku.
+
 
 - Pelajar
 
